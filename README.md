@@ -6,7 +6,6 @@ A research platform for exploring theoretical models of human consciousness expa
 
 QICES provides a framework for studying potential consciousness expansion through quantum mechanical principles while maintaining strict safety protocols and ethical guidelines. The platform combines neuroscience, quantum theory, and information processing to explore consciousness in a controlled, responsible manner.
 
-
 ## Core Components
 
 ### Consciousness Modeling Engine
