@@ -62,3 +62,4 @@
 (define-read-only (get-technique-count)
     (var-get technique-counter)
 )
+
