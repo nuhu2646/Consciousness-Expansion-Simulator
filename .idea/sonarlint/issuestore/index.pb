@@ -9,3 +9,5 @@ Y
 )contracts/expanded-consciousness-nft.clar,9/9/99726c7eedde964e33cbb034deacd16cd2e9f178
 X
 (tests/expanded-consciousness-nft.test.ts,8/7/8764d9ba8af46c48cc0120cc3b0e734e0431df06
+O
+contracts/safety-protocols.clar,0/6/0662202a25accfc8a576534216c62ba01c2346d4
