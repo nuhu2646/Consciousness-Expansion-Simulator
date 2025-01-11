@@ -11,3 +11,5 @@ X
 (tests/expanded-consciousness-nft.test.ts,8/7/8764d9ba8af46c48cc0120cc3b0e734e0431df06
 O
 contracts/safety-protocols.clar,0/6/0662202a25accfc8a576534216c62ba01c2346d4
+N
+tests/safety-protocols.test.ts,a/6/a6ba9f00506f6349e2742b6d0c9cad1bf2fbd9ae
